@@ -1,5 +1,3 @@
-## Hi there 👋
-
 MY Portfolio -- https://a-portfolio-omega.vercel.app/
 
 # 💫 About Me:
