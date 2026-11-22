@@ -15,40 +15,6 @@
 </table>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CReact%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CReact%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Saqib Hussain animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Saqib Hussain animated technology stack" />
-</picture>
-
-<p align="center"><sub>JavaScript · TypeScript · React · Next.js · HTML · CSS · Python · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&repos=saqib-hussain-07%2FCampus_Connect%2Csaqib-hussain-07%2FHireSense-AI%2Csaqib-hussain-07%2FDevGallery%2Csaqib-hussain-07%2FAPI_Change_Impact_Simulator&variant=wow&v=wow-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&repos=saqib-hussain-07%2FCampus_Connect%2Csaqib-hussain-07%2FHireSense-AI%2Csaqib-hussain-07%2FDevGallery%2Csaqib-hussain-07%2FAPI_Change_Impact_Simulator&variant=wow&v=wow-projects-2&mode=dark" width="100%" alt="Saqib Hussain animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&repos=saqib-hussain-07%2FCampus_Connect%2Csaqib-hussain-07%2FHireSense-AI%2Csaqib-hussain-07%2FDevGallery%2Csaqib-hussain-07%2FAPI_Change_Impact_Simulator&variant=wow-timeline&v=wow-timeline-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=saqib-hussain-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234271476%3Fu%3D897ae20b5790ab0f6e3f1c9ac2a27175c6ddf54e%26v%3D4&repos=saqib-hussain-07%2FCampus_Connect%2Csaqib-hussain-07%2FHireSense-AI%2Csaqib-hussain-07%2FDevGallery%2Csaqib-hussain-07%2FAPI_Change_Impact_Simulator&variant=wow-timeline&v=wow-timeline-2&mode=dark" width="100%" alt="Saqib Hussain animated project launch timeline" />
-</picture>
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="25%" valign="top"><p><strong><a href="https://github.com/Saqib-Hussain-07/Campus_Connect">Campus_Connect</a></strong></p><p>CampusConnect is a full-stack student networking portal that allows university students to discover peers, showcase projects, collaborate on groups, and connect.</p><p><sub>React · JavaScript · ⭐ 1</sub></p></td>
